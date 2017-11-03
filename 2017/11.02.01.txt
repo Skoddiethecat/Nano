@@ -1,3 +1,5 @@
+-------------------------------------------------------------------------
+
 I am not a writer, I am a musician. Here I am writing though....I wonder if I could tell my story better in song. I am, for lack of better terms, queer, femme, pissed, and exhausted. I say 'I am a musician', but what makes that true? In reality, I am a cog in the captialism machine, working day to day churning out profit for people with much more stable lives than me. I work in an office.
 
 There was something that always fascinated me about office work as a kid. The trappings of it had a certain...style. They spoke to a greater idea, a world that the workers could see in their head that they all aimed for. Computers were always of interest to me as well, and an office was their natural habitat. After visiting my mother's office any number of times I came to realize that much of what went on in such a place was done on a piece of software named, Office.
@@ -9,3 +11,5 @@ I launched Word first, seeing all of the different assistants I could use beyond
 As I grew, my interest in computers became more pronounced. I dabbled with QuickBASIC, graduating to Visual Basic, and eventually C++. I spent time as a certifiable 'Webmaster', churning out neon colored websites for local businesses. I always had this vauge notion that some day, when I was an adult, I would go to an office every day and do something, but I just didn't know what.
 
 When I was in Kindergarten my parents had enrolled me in Piano lessons. I found them boring, and begged to stop. Years came and went, and during a class outing to the local performing arts center I was watching a man play the trumpet. I wondered how he could play so many notes when there were only so many button combinations. Soon enough I was enrolled in the school band, with a trumpet in my hand. Once I actually learned how the horn was played I was immediately uninterested. There was no logic to the thing. You just had to memorize certain combinations and that was it. At least on a Piano low notes were at the bottom and high notes at the top. Against my band director's desparate pleas, I switched to the drums. At least drums made sense.
+
+-------------------------------------------------------------------------

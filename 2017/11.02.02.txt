@@ -1,0 +1,77 @@
+-------------------------------------------------------------------------
+
+=====================
+ 1997:01:01:00:00:43
+=====================
+
+Testing testing, can this thing save?
+--Mother--
+
+=====================
+ 1997:01:01:00:03:37
+=====================
+
+Holy shit! This is the first actual piece of technology with an interface I've come across in millena that can SAVE! Note to self: WOAH, try keeping a diary. Gotta run now though.
+--Mother--
+
+=====================
+ 1997:01:02:13:29:22
+=====================
+
+Wow, a diary. I'm not even sure where to begin. It's been so long since I've spoken to another person, or had anything to write with. I'm surprised I can still type. I don't know who I'm writing this for other than myself to look back on, so....hello me. How are you? I was never good at small talk. Memories, I want to record memories.
+
+I found this laptop in...okay I'm not actually sure. I found it yesterday? Yes, looking at the time stamp I found it yesterday. I'm 99% sure it's \textit{not} 1997 though. Maybe I'll figure out how to change the system time, though I'm not sure what I would change it to. This laptop is strange, no GUI just a flashing CLI. It responds to both DOS and *nix commands but I'm in some type of walled off userspace and can't get to anything. I typed NANO and I got a different interfacing saying COMPOSE.
+
+Let's do some tests.
+--Mother--
+
+=====================
+ 1997:01:02:13:33:04
+=====================
+
+Tried VIM, got the same prompt. More tests.
+--Mother--
+
+=====================
+ 1997:01:02:13:33:52
+=====================
+
+EMACS does the same. So I'm dealing with some sort of dumber-than-normal terminal. Wait, I just got a terrible idea.....
+--Mother--
+
+=====================
+ 1997:01:02:13:34:40
+=====================
+
+WORD launched it. Lets try a few more.
+--Mother--
+
+=====================
+ 1997:01:02:13:35:13
+=====================
+
+NOTEPAD
+--Mother--
+
+=====================
+ 1997:01:02:13:35:37
+=====================
+
+TEXTEDIT
+
+Okay, I'll have to do some more exploring. This thing seems to be designed to respond to people with any level of basic CLI familiarity regardless of platform. I digress.
+
+According to my previous note I'm supposed to be using this to remember things. Lets start with what I know.
+
+I have been wandering the earth for millena without seeing another person or creature. I know this because I've checked the star charts in libraries and universities. I'd have to go check again to know the exact date because of my damn memory, but I do know I've seen the sun set over a million times. I do remember a time before these wanderings. I remember almost a whole life actually, but I'm not sure how that life led to this one. I know I can do certain things now that I couldn't do then.
+
+I have access to some extreme processing faculty, either internal or external, that I can control by writing code in my mind. No joke, I can write code in my mind and execute it to get results. Sometimes, though not frequently, I can use this to affect the world around me, but it's difficult to guess at the API(?) of the physical world.
+
+I know the world looks different to me than it looked before my wanderings. The sky fades from fuscia to blue, while grey or green clouds dance over it. Patterns dance over the landforms before me, feeding me information about their distance and shape. I am fairly certain that this is some sort of augmented reality system, as I have a certain degree of control over it. I do, however, know that I am on the same Earth that I was before. Even as small geological shifts have occured, I can still travel to places that I remember from before. I have vague memories of the feeling I felt the first time I summitted Everest. I'm getting ahead of myself.
+
+I don't really walk, nor do I drive or fly. I sort of float a few feet above the groud, and can travel at a decent clip. Based on some rough estimations early on, I think my top speed is about 200 km/h. I do have a body, though I'm not sure what it's made of. It seems fleshy in some ways, but extremly durable. I don't really have bodily functions anymore. I need water from time to time, but not as frequently as I did before. I can still smell, and I can still taste (not that there's any food). I just wander, see things, read books, and try to remember what happened.
+
+More soon.
+--Mother--
+
+-------------------------------------------------------------------------

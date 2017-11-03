@@ -1,0 +1,107 @@
+-------------------------------------------------------------------------
+
+When you're queer you don't have the option of staying friends with your 'default friends'. There's too much bigotry in our society to be able to stay friends with people you've met at school and work. Hell, even family....perhaps especially family, falls right in line with random queerphobia. In a way, at least to me, part of being queer is having to curate good people, and cut out the bad.
+
+I didn't really come out at once. I came out to certain people, while staying closeting to others for a time, hoping to eventually be entirely out. I am essentailly out in my private life, though I often find myself explaining my queerness to new people that enter my life. Professionally is quite a bit different. At work my queerness is best described as an open secret. For years only people I happened to befriend, none of which were in my department, knew. Management most likely does not know, and none of my direct coworkers have ever known until recently. I stealth for safety and ease, as much as it hurts me to do so.
+
+I remember coming out to the 'default' friends of my teen years, only one of which I'm still in contact with. Hostility is the best word I can use to describe their general reaction. They're off succeeding, almost as a birthright, while I and my queer friends are left behind. I think of all the time I've spent trying to figure out who I am....all the time they could use on building lives because society simply told them who they were. "You will go into the world, find somebody who has different gentials than yours, which DEFINITELY determines their gender, make a shit ton of money together and breed like bunnies until you die!" Fuck that noise....but where does that leave me?
+
+My family was initially supportive, though when they realized that the situation was more complex they became apathetic. Eventually came the strains of "I don't see why this is so important to you", and "Well I guess you're definitely the black sheep." Maybe it really is too much to ask people to be empathetic. I've mostly stopped spending time with them. Every interaction is just uncomfortable as they ask impolite questions, and pry into my life.
+
+The behavior of self preservation is, of course, at odds with the idea of progress. I didn't want to lose my social ties with family and friends from school, I wanted to be accepted and loved. The ideal outcome is one where they realize that my queerness is important to me, doesn't affect them in any real way, and we continue to be close. By cutting them out I save myself, but I remove the chance of acceptance.
+
+That's easily rebuked though, they're more than welcome to approach me and ask how to re-enter my life. They just don't. This makes me question how close we ever were, and other dark broodings in this vein. The reality is probably closer to them just being tired, and not having the mental bandwidth to deal with anything outside of their comfort zone.
+
+I remember coming out to a small group of friends that I used to play WoW with. Their response was a simple, "So what?" It made me feel hollow and useless to hear this response, but it took me years to figure out exactly why. They may have thought that they were showing acceptance, being modern, cool, and what has lately been called 'woke', but instead all I heard was, 'We hear this things you're telling us that you think is important, and we don't care'. I care, which is why I told them. Being queer is core to my being, the least they could have done was be supportive.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+I am not a writer, I am a musician. Here I am writing though....I wonder if I could tell my story better in song. I am, for lack of better terms, queer, femme, pissed, and exhausted. I say 'I am a musician', but what makes that true? In reality, I am a cog in the captialism machine, working day to day churning out profit for people with much more stable lives than me. I work in an office.
+
+There was something that always fascinated me about office work as a kid. The trappings of it had a certain...style. They spoke to a greater idea, a world that the workers could see in their head that they all aimed for. Computers were always of interest to me as well, and an office was their natural habitat. After visiting my mother's office any number of times I came to realize that much of what went on in such a place was done on a piece of software named, Office.
+
+One day my mother came home with a gift, an enterprise copy of Office '97. It could be installed on any number of computers, and was a gateway to this other world I had seen at her work. I immediately ran up to my computer and dutifully ran the installer. The thrill of seeing the icons of each new application appear of my desktop was only matched by my further excitement when a little toolbar appeared; allowing me to launch any Office application easily no matter what I was doing.
+
+I launched Word first, seeing all of the different assistants I could use beyond the default paperclip. I spent the appropriate amount time typing my name in, changing the font, creating word art, and even printing out a few samples of this childhood silliness. Bored, I explored the other applications. I remember the feeling when I first opened Excel. I could sense a power deep within it, but I felt powerless to access it. It seemed like Word, but for organizing things into little boxes. I felt like I wasn't getting it, but that was to be expected as I was a child.
+
+As I grew, my interest in computers became more pronounced. I dabbled with QuickBASIC, graduating to Visual Basic, and eventually C++. I spent time as a certifiable 'Webmaster', churning out neon colored websites for local businesses. I always had this vauge notion that some day, when I was an adult, I would go to an office every day and do something, but I just didn't know what.
+
+When I was in Kindergarten my parents had enrolled me in Piano lessons. I found them boring, and begged to stop. Years came and went, and during a class outing to the local performing arts center I was watching a man play the trumpet. I wondered how he could play so many notes when there were only so many button combinations. Soon enough I was enrolled in the school band, with a trumpet in my hand. Once I actually learned how the horn was played I was immediately uninterested. There was no logic to the thing. You just had to memorize certain combinations and that was it. At least on a Piano low notes were at the bottom and high notes at the top. Against my band director's desparate pleas, I switched to the drums. At least drums made sense.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+=====================
+ 1997:01:01:00:00:43
+=====================
+
+Testing testing, can this thing save?
+--Mother--
+
+=====================
+ 1997:01:01:00:03:37
+=====================
+
+Holy shit! This is the first actual piece of technology with an interface I've come across in millena that can SAVE! Note to self: WOAH, try keeping a diary. Gotta run now though.
+--Mother--
+
+=====================
+ 1997:01:02:13:29:22
+=====================
+
+Wow, a diary. I'm not even sure where to begin. It's been so long since I've spoken to another person, or had anything to write with. I'm surprised I can still type. I don't know who I'm writing this for other than myself to look back on, so....hello me. How are you? I was never good at small talk. Memories, I want to record memories.
+
+I found this laptop in...okay I'm not actually sure. I found it yesterday? Yes, looking at the time stamp I found it yesterday. I'm 99% sure it's \textit{not} 1997 though. Maybe I'll figure out how to change the system time, though I'm not sure what I would change it to. This laptop is strange, no GUI just a flashing CLI. It responds to both DOS and *nix commands but I'm in some type of walled off userspace and can't get to anything. I typed NANO and I got a different interfacing saying COMPOSE.
+
+Let's do some tests.
+--Mother--
+
+=====================
+ 1997:01:02:13:33:04
+=====================
+
+Tried VIM, got the same prompt. More tests.
+--Mother--
+
+=====================
+ 1997:01:02:13:33:52
+=====================
+
+EMACS does the same. So I'm dealing with some sort of dumber-than-normal terminal. Wait, I just got a terrible idea.....
+--Mother--
+
+=====================
+ 1997:01:02:13:34:40
+=====================
+
+WORD launched it. Lets try a few more.
+--Mother--
+
+=====================
+ 1997:01:02:13:35:13
+=====================
+
+NOTEPAD
+--Mother--
+
+=====================
+ 1997:01:02:13:35:37
+=====================
+
+TEXTEDIT
+
+Okay, I'll have to do some more exploring. This thing seems to be designed to respond to people with any level of basic CLI familiarity regardless of platform. I digress.
+
+According to my previous note I'm supposed to be using this to remember things. Lets start with what I know.
+
+I have been wandering the earth for millena without seeing another person or creature. I know this because I've checked the star charts in libraries and universities. I'd have to go check again to know the exact date because of my damn memory, but I do know I've seen the sun set over a million times. I do remember a time before these wanderings. I remember almost a whole life actually, but I'm not sure how that life led to this one. I know I can do certain things now that I couldn't do then.
+
+I have access to some extreme processing faculty, either internal or external, that I can control by writing code in my mind. No joke, I can write code in my mind and execute it to get results. Sometimes, though not frequently, I can use this to affect the world around me, but it's difficult to guess at the API(?) of the physical world.
+
+I know the world looks different to me than it looked before my wanderings. The sky fades from fuscia to blue, while grey or green clouds dance over it. Patterns dance over the landforms before me, feeding me information about their distance and shape. I am fairly certain that this is some sort of augmented reality system, as I have a certain degree of control over it. I do, however, know that I am on the same Earth that I was before. Even as small geological shifts have occured, I can still travel to places that I remember from before. I have vague memories of the feeling I felt the first time I summitted Everest. I'm getting ahead of myself.
+
+I don't really walk, nor do I drive or fly. I sort of float a few feet above the groud, and can travel at a decent clip. Based on some rough estimations early on, I think my top speed is about 200 km/h. I do have a body, though I'm not sure what it's made of. It seems fleshy in some ways, but extremly durable. I don't really have bodily functions anymore. I need water from time to time, but not as frequently as I did before. I can still smell, and I can still taste (not that there's any food). I just wander, see things, read books, and try to remember what happened.
+
+More soon.
+--Mother--
+
+-------------------------------------------------------------------------
